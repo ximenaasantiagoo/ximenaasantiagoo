@@ -15,4 +15,25 @@
 <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
+ ## Who am I?
+ 
+ ``` python
+ class WhoAmI:
+ 	user = 'Alexandra Santiago'
+	current_edu = "UNAM"
+    hobbies = [
+                'Playing Fortnite',
+                'Reading Stephen King books',
+                'Watching AHS',
+                'Photography'
+             ]
+	
+	def getCity():
+    return "CDMX, Mexico"
+	
+	def Ambitions():
+        Pass_SOA_FM_Exam()
+        MasterDataScience()
+        ExploreCloudArchitecture()
+ ```
  
