@@ -1,9 +1,5 @@
-### Hi, [I'm Alexandra!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, [I'm Alexandra!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<a href="https://www.linkedin.com/in/ximenasantiagoo/">  
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ximena Alexandra Santiago Ordoñez LinkedIn Profile" height="30" width="30">
-</a>
-  
 ## Programming Languages
 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> &nbsp;&nbsp;
@@ -37,4 +33,7 @@ class Profile:
         MasterDataScience()
         ExploreCloudArchitecture()
  ```
- 
+
+<a href="https://www.linkedin.com/in/ximenasantiagoo/">  
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ximena Alexandra Santiago Ordoñez LinkedIn Profile" height="30" width="30"> 
+</a>
