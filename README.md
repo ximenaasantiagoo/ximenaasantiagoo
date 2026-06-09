@@ -10,7 +10,8 @@ _Actuarial Science graduate from UNAM passionate about merging data science with
 <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg' width='30'/> &nbsp;&nbsp;
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg' width='30'/>
 
  ## About Me
  
