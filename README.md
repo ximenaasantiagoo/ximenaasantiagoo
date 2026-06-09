@@ -1,18 +1,6 @@
 ## Hi, I'm Alexandra Santiago! 
 _Actuarial Science graduate from UNAM passionate about merging data science with financial analytics to build predictive models and smart risk solutions._
 
-## Languages and Tools
-
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> &nbsp;&nbsp;
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg' height='30'/> &nbsp;&nbsp;
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg' height='30'/> &nbsp;&nbsp;
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg' width='30'/> &nbsp;&nbsp;
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg' width='30'/> &nbsp;&nbsp;
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg' width='30'/> &nbsp;&nbsp;
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg' width='30'/> &nbsp;&nbsp;
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> &nbsp;&nbsp;
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg' width='30'/>
-
  ## About Me
  
  ``` python
@@ -35,6 +23,18 @@ class Profile:
         master_data_science()
         explore_cloud_architecture()
  ```
+
+## Languages and Tools
+
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg' height='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg' height='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg' width='30'/>
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/ximenasantiagoo/">  
