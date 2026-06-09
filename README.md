@@ -1,4 +1,5 @@
-## Hi, [I'm Alexandra!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hi, I'm Alexandra Santiago! 
+_Actuarial Science graduate from UNAM passionate about merging data science with financial analytics to build predictive models and smart risk solutions._
 
 ## Languages and Tools
 
