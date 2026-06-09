@@ -19,22 +19,25 @@ class Profile:
     title = 'Actuary'
     current_edu = 'UNAM'
     hobbies = [
-                'Playing Fortnite',
-                'Reading Stephen King books',
-                'Watching AHS',
-                'Photography'
-             ]
-	
-	def getCity():
-    return 'CDMX, Mexico'
-	
-	def Ambitions():
-        Pass_SOA_FM_Exam()
-        MasterDataScience()
-        ExploreCloudArchitecture()
+        'Playing Fortnite',
+        'Reading Stephen King books',
+        'Watching AHS',
+        'Photography'
+    ]
+    
+    def get_city():
+        return 'CDMX, Mexico'
+        
+    def ambitions():
+        pass_SOA_FM_Exam()
+        master_data_science()
+        explore_cloud_architecture()
  ```
+
 ## Contact Me
 <a href="https://www.linkedin.com/in/ximenasantiagoo/">  
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ximena Alexandra Santiago Ordoñez LinkedIn Profile" height="30" width="30"> 
 </a>
+
+
 
