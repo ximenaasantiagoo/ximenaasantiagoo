@@ -1,8 +1,12 @@
-## Hi, I'm Alexandra Santiago! 
+### Hi, I'm Alexandra Santiago! 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 _Actuarial Science graduate from UNAM passionate about merging data science with financial analytics to build predictive models and smart risk solutions._
 
- ## About Me
- 
+ ### About Me
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
  ``` python
 class Profile:
     user = 'Ximena Alexandra Santiago Ordoñez'
