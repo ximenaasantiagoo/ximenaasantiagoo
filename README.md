@@ -1,11 +1,8 @@
-### Hi, I'm Alexandra Santiago! 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Hi, I'm Alexandra Santiago! 
 
 _Actuarial Science graduate from UNAM passionate about merging data science with financial analytics to build predictive models and smart risk solutions._
 
- ### About Me
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+ ## About Me
 
  ``` python
 class Profile:
